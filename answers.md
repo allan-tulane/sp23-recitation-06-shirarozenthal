@@ -24,4 +24,4 @@ Place all written answers from `recitation-06.md` here for easier grading.
 
 - **e.**
 
-In this situation, all frequencies are equal to one another. The Huffman coding cost would therefore be the product of this frequency and the encodings’ lengths, resulting in a balanced tree. For a tree of n leaves, the cost would be n log n — and this hold true across documents.  
+In this situation, all frequencies are equal to one another. The Huffman coding cost would therefore be the product of this frequency and the encodings’ lengths, resulting in a balanced tree. For a tree of n leaves, the cost would be n log n — and this holds true across documents.  
